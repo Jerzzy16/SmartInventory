@@ -68,6 +68,7 @@ php artisan migrate:fresh --seed
 php artisan serve
 ```
 Open your browser and visit: http://127.0.0.1:8000/admin 
+
 7️⃣ Compile Frontend Assets
 ```
 npm run dev
