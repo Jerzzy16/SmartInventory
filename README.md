@@ -12,7 +12,7 @@ Real-time Notifications
 
 REST API Support
 
-#🛠 Prerequisites
+# 🛠 Prerequisites
 
 Ensure you have the following installed:
 
