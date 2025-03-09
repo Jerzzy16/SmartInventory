@@ -68,9 +68,9 @@ php artisan migrate
 php artisan db:seed
 ```
 7️⃣ Serve the Application
-
+```
 php artisan serve
-
+```
 Open your browser and visit: http://127.0.0.1:8000
 
 8️⃣ Compile Frontend Assets
