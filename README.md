@@ -71,7 +71,7 @@ php artisan db:seed
 ```
 php artisan serve
 ```
-Open your browser and visit: http://127.0.0.1:8000
+Open your browser and visit: http://127.0.0.1:8000/admin
 
 8️⃣ Compile Frontend Assets
 ```
