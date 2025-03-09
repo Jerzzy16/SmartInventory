@@ -61,22 +61,18 @@ php artisan key:generate
 ```
 5️⃣ Run Database Migrations
 ```
-php artisan migrate
+php artisan migrate:fresh --seed
 ```
-6️⃣ Seed the Database (Optional)
-```
-php artisan db:seed
-```
-7️⃣ Serve the Application
+6️⃣ Serve the Application
 ```
 php artisan serve
 ```
 Open your browser and visit: http://127.0.0.1:8000/admin
-
-8️⃣ Compile Frontend Assets
+7️⃣ Compile Frontend Assets
 ```
 npm run dev
 ```
+
 # 🔧 Additional Commands
 
 To run tests:
@@ -87,6 +83,12 @@ To clear cache:
 ```
 php artisan cache:clear
 ```
+To login:
+```
+Username: admin@admin
+Password: 123456
+```
+
 # 📜 License
 
 This project is licensed under the MIT License.
